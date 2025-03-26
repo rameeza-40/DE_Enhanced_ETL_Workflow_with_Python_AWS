@@ -1,0 +1,14 @@
+2025-03-26 12:18:11.341165: ETL process started.
+2025-03-26 12:18:12.779168: File downloaded successfully.
+2025-03-26 12:18:12.857168: Files extracted.
+2025-03-26 12:18:13.017203: Extracted data from source1.csv
+2025-03-26 12:18:13.024167: Extracted data from source2.csv
+2025-03-26 12:18:13.029175: Extracted data from source3.csv
+2025-03-26 12:18:13.098200: Extracted data from source1.json
+2025-03-26 12:18:13.174169: Extracted data from source2.json
+2025-03-26 12:18:13.242168: Extracted data from source3.json
+2025-03-26 12:18:13.330166: Extracted data from source1.xml
+2025-03-26 12:18:13.363180: Extracted data from source2.xml
+2025-03-26 12:18:13.397168: Extracted data from source3.xml
+2025-03-26 12:18:13.418172: Data transformation completed.
+2025-03-26 12:18:18.625804: File uploaded to S3.
